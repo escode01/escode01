@@ -5,8 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=escode01" alt="escode01" /></a> </p>
 
-- 💬 Ask me about **react, node, express, mongodb, redux, MUI**
+- 🔭 I’m currently working on **LNMIIT Medical Unit Stock Automation**
 
+- 🌱 I’m currently learning **Nextjs, TypeScript**
+
+- 💬 Ask me about **react, node, express, mongodb, redux, MUI**
 - 📫 How to reach me **escode01@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bWaDtG5F1-a2vldSbuMIW-33qhS1VRLH/view?usp=sharing](https://drive.google.com/file/d/1bWaDtG5F1-a2vldSbuMIW-33qhS1VRLH/view?usp=sharing)
